@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hola, soy [Anthony] 👋
 
-<!--
-**Anthonybergling/Anthonybergling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Desarrollador Python** | 🌐 **Desarrollador Web** | 📱 **Desarrollador Móvil**
 
-Here are some ideas to get you started:
+### Sobre mí
+Soy un apasionado programador con experiencia en **Python**, desarrollo **web** y **móvil**. Me encanta resolver problemas complejos y crear soluciones eficientes y elegantes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌟 **Habilidades**:
+  - Lenguajes: Python, JavaScript, HTML, CSS
+  - Frameworks: Django, Flask, React, React Native
+  - Bases de Datos: PostgreSQL, MySQL
+
+- 🎯 **Objetivos**:
+  - Mejorar continuamente mis habilidades en Python y desarrollo web/móvil.
+  - Contribuir a proyectos open source y colaborar con otros desarrolladores.
+
+- 📬 **Contáctame**:
+ - Correo [Electrónico]dagazcii@gmail.com
+
+¡Vamos a crear algo increíble juntos!
