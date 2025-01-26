@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Programador Junior |   Tech Enthusiast  <br>✨ Desarrollador web & móvil | 🛠 Optimización<br>📧 Contacto: dagazcii@gmail.com
+👨‍💻 Programador |   Tech Enthusiast  <br>✨ Desarrollador web & móvil | 🛠 Optimización<br>📧 Contacto: dagazcii@gmail.com
 
 
 ## 🌐 Socials:
